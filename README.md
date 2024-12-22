@@ -1,5 +1,8 @@
 # FEATURES
- ・ad blocking 
+ ・ad blocking
+ 
  ・Playback speed  
+ 
  ・Miniplayer 
- ・Background support     etc...
+ 
+ ・Background support    etc...
