@@ -6,3 +6,6 @@
  ・Miniplayer 
  
  ・Background support    etc...
+
+# Details
+・YouTube Revanced(OFFICIAL)
