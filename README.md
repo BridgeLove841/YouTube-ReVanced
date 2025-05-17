@@ -9,3 +9,6 @@
 
 # Details
 ・YouTube Revanced(OFFICIAL)
+
+# Contact me
+・@bridgelove_841 on discord
