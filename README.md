@@ -11,4 +11,4 @@
 ・YouTube Revanced(OFFICIAL)
 
 # Contact me
-・[@bridgelove_841](discord.com) on discord
+・[@bridgelove_841](https://discord.com) on discord
